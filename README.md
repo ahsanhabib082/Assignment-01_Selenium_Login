@@ -37,3 +37,10 @@ your first name
  ■ EmployeeID: Leave blank to auto-generate or provide a custom ID.
 
  d. Submit the form to add the employee
+
+ # Output
+ 
+
+https://github.com/user-attachments/assets/f428bcca-88b6-47bb-afd9-b0a85c36df48
+
+
